@@ -50,3 +50,8 @@ ID | Non-functional (sizing)
   Step 4: Create webpage to display data
   Step 5: Make the webpage user input friendly
   
+  
+  | ID | User (sizing)                                                                                           |   |   |   |
+|----|---------------------------------------------------------------------------------------------------------|---|---|---|
+| 0  | As a user, I want the information to be presented in a friendly manner so that I can read it easier (2) |   |   |   |
+| 1  | As a user, I want to be able to see a picture of the beer (2)                                           
