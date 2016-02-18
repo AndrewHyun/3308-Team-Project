@@ -2,6 +2,7 @@
 **Team members:**
   1. Andrew Lim, andrewhyun
   2. Ryan Matthews, Te-Taniwha
+  3. Juan Carlos Herrera, jcherrera
 
 **Title:** Best Beer
 
