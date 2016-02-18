@@ -42,3 +42,7 @@ Project Plan:
   Step 3: Create software to compute data
   Step 4: Create webpage to display data
   Step 5: Make the webpage user input friendly
+  
+  hello | hi
+  -----|-----
+  1|2
