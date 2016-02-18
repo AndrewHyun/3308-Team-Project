@@ -26,6 +26,7 @@
 1|2345
 -|--
 2|4
+
 ID | User (sizing)
 -- | ------------------
 0  | As a user, I want the information to be presented in a friendly manner so that I can read it easier (2)
