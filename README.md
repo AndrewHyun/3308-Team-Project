@@ -23,8 +23,11 @@
   Communicate with team members
   
 **Requirements:**
+1|2345
+-|--
+2|4
 ID | User (sizing)
---- | --------------------------------------------------------------------------------------------------------
+-- | ------------------
 0  | As a user, I want the information to be presented in a friendly manner so that I can read it easier (2)
 
 As a user, I want the to see all the ingredients in the beer so I know what's in my beer (3) | As a user, I want the webpage to aesthetically pleasing to the eye so that customers are more likely to be satisfied with the product (3)
