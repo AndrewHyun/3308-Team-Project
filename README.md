@@ -23,20 +23,16 @@
   Communicate with team members
   
 **Requirements:**
-1|25
--|--
-2|4
-
-ID | User (sizing)
+|ID | User (sizing)
 -- | ------------------
-0  | As a user, I want the information to be presented in a friendly manner so that I can read it easier (2)
+|0  | As a user, I want the information to be presented in a friendly manner so that I can read it easier (2)
 
 As a user, I want the to see all the ingredients in the beer so I know what's in my beer (3) | As a user, I want the webpage to aesthetically pleasing to the eye so that customers are more likely to be satisfied with the product (3)
 1 | As a user, I want to be able to see a picture of the beer (2) | As a user, I want to retrieve the data from the server so that the software works (15) | As a programmer, I want to calculate the 'best' beer in 100 ms so that the my impatient users are satisfied (8)
 
 ID | Functional (sizing)
 --|--------------------
-1|hello
+
 
 ID | Non-functional (sizing)
 --|-----------------------
