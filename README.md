@@ -32,6 +32,7 @@ As a user, I want the to see all the ingredients in the beer so I know what's in
 
 ID | Functional (sizing)
 --|--------------------
+1|hello
 
 ID | Non-functional (sizing)
 --|-----------------------
