@@ -23,7 +23,7 @@
   Communicate with team members
   
 **Requirements:**
-1|2345
+1|25
 -|--
 2|4
 
